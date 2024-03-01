@@ -1,0 +1,21 @@
+@import 'null.css';
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.header {
+    height: 100px;
+    background: #fff;
+}
+
+.content {
+    flex: 1 1 100%;
+}
+
+.footer {
+    height: 100px;
+    background: #fff;
+}
